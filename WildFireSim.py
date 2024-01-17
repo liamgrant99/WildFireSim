@@ -2,13 +2,6 @@
 Simulates a forest fire. The number of trees in the forest are based on the density of the forest, and fire spreads
 to vertically and horizontally adjacent trees. If the fire reaches the bottom, true is returned, and if it does not false is
 returned. 
-    Filename: Grant_Project_3.py
-    Author: Liam Grant
-    Date: 4/22/2023
-    Course: Intro to Data Structures and Algorithms
-    Assignment: Project 3
-    Collaborators: None
-    Internet Source: None
 """
 from Queue import Queue
 from Stack import Stack
